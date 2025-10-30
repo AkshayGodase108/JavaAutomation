@@ -7,7 +7,7 @@ public class Lab04_Logical_Operator {
         boolean e = false || false;
         boolean f = false || true;
         System.out.println(c);
-        System.out.println(f);
+        System.out.println(d);
         System.out.println(e);
         System.out.println(f);
 
