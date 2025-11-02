@@ -16,7 +16,7 @@ public class Task6_TriangleClassifier_HackerRank {
         }else if (slide1==slide2 || slide2==slide3 || slide1==slide3){
             System.out.println("the triangle is isosceles");
         }else{
-            System.out.println("the triangle is scalene");
+            System.out.println("the triangle is a scalene");
         }
     }
 }
