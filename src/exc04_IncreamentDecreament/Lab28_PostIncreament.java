@@ -4,8 +4,9 @@ public class Lab28_PostIncreament {
     public static void main(String[] args) {
         int a = 10;
         int result = a++;
-        System.out.println(a);
         System.out.println(result);
+        System.out.println(a);
+
 
         // line no / a / b
         //  5     / 10 / NA
