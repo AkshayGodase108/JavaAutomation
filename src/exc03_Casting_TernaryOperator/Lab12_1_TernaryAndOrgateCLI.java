@@ -1,6 +1,6 @@
 package exc03_Casting_TernaryOperator;
 
-public class Lab_121_TernaryAndOrgateCLI {
+public class Lab12_1_TernaryAndOrgateCLI {
     public static void main(String[] args) {
 
         int a = Integer.parseInt(args[0]);

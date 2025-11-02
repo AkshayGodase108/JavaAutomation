@@ -2,7 +2,7 @@ package exc03_Casting_TernaryOperator;
 
 import java.util.Scanner;
 
-public class Lab122_TernaryAndORScanner {
+public class Lab12_2_TernaryAndORScanner {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the a side length");
