@@ -1,4 +1,4 @@
-package exc10_String;
+package exc11_StringFunctions;
 
 import java.util.Scanner;
 

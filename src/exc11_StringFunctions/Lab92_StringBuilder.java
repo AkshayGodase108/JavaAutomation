@@ -1,4 +1,4 @@
-package exc10_String;
+package exc11_StringFunctions;
 
 public class Lab92_StringBuilder {
     public static void main(String[] args) {
