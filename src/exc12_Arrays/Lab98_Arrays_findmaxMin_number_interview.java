@@ -10,11 +10,7 @@ public class Lab98_Arrays_findmaxMin_number_interview {
         System.out.println(max_output);
         int min_output = give_me_min(array);
         System.out.println(min_output);
-
-
     }
-
-
     private static int give_me_max(int[] array) {
         int max = array[0];
         for (int i=0; i<array.length;i++){
@@ -23,7 +19,6 @@ public class Lab98_Arrays_findmaxMin_number_interview {
             }
         }
         return max;
-
     }
     private static int give_me_min(int[] array) {
         int min = array[0];
