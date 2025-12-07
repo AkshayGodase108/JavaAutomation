@@ -1,6 +1,6 @@
-package exc27_Generic;
+package exc27_Generics;
 
-public class Lab175_Generic {
+public class Lab175_Generics {
 
         public static void main(String[] args) {
 

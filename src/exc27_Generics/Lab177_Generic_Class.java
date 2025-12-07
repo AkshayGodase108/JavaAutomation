@@ -1,4 +1,4 @@
-package exc27_Generic;
+package exc27_Generics;
 
 public class Lab177_Generic_Class {
 

@@ -1,4 +1,4 @@
-package exc27_Generic;
+package exc27_Generics;
 import java.util.ArrayList;
 import java.util.List;
 public class Lab178_Generics_List {
