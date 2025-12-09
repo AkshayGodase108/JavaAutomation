@@ -5,7 +5,8 @@ public class Lab179 {
     public static void main(String[] args) {
         Integer[]  arr = new Integer[10];// Fixed Size
         arr[0] = 12;
-        // arr[1] = "pramod";
+        // arr[1] = "pramod"; //will not accept another data type
+        System.out.println(arr.length);
     }
 
     // 1. Fixed Size

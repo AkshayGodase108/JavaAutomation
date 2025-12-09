@@ -18,5 +18,8 @@ public class Lab180_LIST_I {
         l.add(123);
         l.add(true);
         l.add("Blah Blah");
+        l2.add("Akshay");
+        System.out.println(l);
+        System.out.println(l2);
     }
 }
